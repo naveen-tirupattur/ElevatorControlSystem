@@ -1,6 +1,7 @@
 /**
- * Implementation of Elevator Control System
+ * Interface for Elevator Control System
  */
+ 
 package my.mesosphere;
 
 import java.util.ArrayList;
