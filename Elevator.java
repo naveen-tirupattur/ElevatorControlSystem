@@ -1,3 +1,7 @@
+/**
+ * Elevator class
+ */
+
 package my.mesosphere;
 
 import java.util.PriorityQueue;
