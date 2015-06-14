@@ -1,5 +1,5 @@
 /**
- * 
+ * Implementation of Elevator Control System
  */
 package my.mesosphere;
 
